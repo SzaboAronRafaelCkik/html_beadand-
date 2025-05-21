@@ -1,4 +1,29 @@
-img {
-    width: auto ;
+ #wendigo {
+    size: 300px 300px;
+    
 
+}
+
+#index {
+    background-image: url(hatter.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p, h1 {
+    text-align: center;
+    color: white;
+   font-weight: bold;
+   
+}
+ul {
+    color: white;
+    font-weight: bold;
+    text-decoration: underline;
+}    
+
+#wendigobody {
+    background-image: url(wendigo_nagy.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
