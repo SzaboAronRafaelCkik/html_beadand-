@@ -15,7 +15,7 @@
 .label {
   font-size: 40px;
   font-weight: bold;
-  color: #fff;
+  color: #000000;
   
 }
 
@@ -28,10 +28,25 @@
 
 p, h1  {
     text-align: center;
-    color: white;
+    color: rgb(0, 0, 0);
    font-weight: bold;
    
    
+   
+}
+
+#bevezeto {
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.egesz {
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 20px;
+  
+  
 }
    
 h2 {
