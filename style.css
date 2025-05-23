@@ -24,7 +24,7 @@
 #index {
     background-image: url(hatter.webp);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 2500px 1700px;
 }
 
 p, h1  {
@@ -37,7 +37,7 @@ p, h1  {
    
 h2 {
     text-align: left;
-    color: white;
+    color: burlywood;
     font-weight: bold;
 }
 
@@ -60,6 +60,15 @@ ul {
 
 div.szovoghatter {
      opacity: 0,3;
-    color: burlywood;
+    color: white;
 }  
 
+
+#wendigo2 {
+    color: burlywood;
+
+}
+
+thead {
+    color: white;
+}
