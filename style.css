@@ -13,7 +13,7 @@
 }
 
 .label {
-  font-size: 60px;
+  font-size: 40px;
   font-weight: bold;
   color: #fff;
   
@@ -22,8 +22,7 @@
 
 
 #index {
-    background-image: url(hatter.webp);
-    background-repeat: no-repeat;
+    background:url(hatter.webp) no-repeat fixed center ;
     background-size: 2500px 1700px;
 }
 
@@ -69,6 +68,9 @@ div.szovoghatter {
 
 }
 
-thead {
-    color: white;
+.monster2 {
+   text-align: left ;
+   font-size: 20px;
+  
+   
 }
