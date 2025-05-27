@@ -1,7 +1,7 @@
 .monster {
   display: flex;
   align-items: center;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 .monster img {
@@ -12,7 +12,7 @@
   border-radius: 5px;
 }
 
-.label {
+.nev {
   font-size: 40px;
   font-weight: bold;
   color: #000000;
@@ -88,6 +88,11 @@ div.szovoghatter {
    font-size: 20px;
   
    
+}
+#video1 {
+   width: 400px;
+  height: 300px;
+  
 }
 
 
