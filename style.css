@@ -89,9 +89,14 @@ div.szovoghatter {
   
    
 }
-#video1 {
-   width: 400px;
-  height: 300px;
+
+
+iframe {
+   width: 800px;
+  height: 400px;
+  display: block;
+  margin: auto;
+   
   
 }
 
