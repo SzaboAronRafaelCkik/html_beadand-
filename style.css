@@ -51,7 +51,7 @@ p, h1  {
    
 h2 {
     text-align: left;
-    color: burlywood;
+    color: chocolate;
     font-weight: bold;
 }
 
@@ -65,11 +65,12 @@ ul {
 
 
 
- body {
-    
+body {
+    font-family: 'Times New Roman', Times, serif;
     background-image:url(wendigo_nagy.png) ;
     background-repeat: no-repeat;
     background-size: cover;
+    font-size: 22px;
 }
 
 div.szovoghatter {
@@ -79,7 +80,7 @@ div.szovoghatter {
 
 
 #wendigo2 {
-    color: burlywood;
+    color: chocolate;
 
 }
 
@@ -99,6 +100,60 @@ iframe {
    
   
 }
+
+a {
+    font-size:20px;
+    color:chocolate;
+    text-decoration-line: none;    
+}
+
+th {
+    text-align: center;
+    border-color:black;
+    border-width:2px;
+    width: 16%;
+    height: 40px;
+
+}
+
+#fejlec {
+    width: 100%;
+    background-color:peachpuff;
+    
+    
+}
+
+.fejlec_m {
+  height: 50px;
+}
+
+thead {
+    color: white;
+}
+
+.monster_table{
+  text-align: center;
+  background-color: peachpuff;
+  color: black;
+  
+  
+
+}
+
+.m_tr {
+  height: 100px;
+  border-width:2px;
+  border-color:black;
+}
+
+.egesz {
+
+}
+
+
+
+
+
 
 
 
