@@ -146,7 +146,13 @@ thead {
   border-color:black;
 }
 
+#krakenbody {
+  background-image: url(kraken_nagy.png);
+}
 
+#leviatánbody {
+  background-image: url(leviatán_nagy.png);
+}
 
 
 
