@@ -67,7 +67,6 @@ ul {
 
 body {
     font-family: 'Times New Roman', Times, serif;
-    background-image:url(wendigo_nagy.png) ;
     background-repeat: no-repeat;
     background-size: cover;
     font-size: 22px;
@@ -116,6 +115,11 @@ th {
 
 }
 
+table {
+    width: auto;
+}
+
+
 #fejlec {
     width: 100%;
     background-color:peachpuff;
@@ -153,7 +157,17 @@ thead {
 #leviatánbody {
   background-image: url(leviatán_nagy.png);
 }
+#wendigobody {
+  background-image:url(wendigo_nagy.png) ;
+}
 
+#nianbody {
+  background-image: url(nian_nagy.png);
+}
+
+#hydrabody {
+  background-image: url(Hydra_nagy.png);
+}
 
 
 
